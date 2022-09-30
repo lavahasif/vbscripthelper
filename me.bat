@@ -1,0 +1,1 @@
+FOR /F %%A IN ('CSCRIPT //NoLogo sericepack.vbs') DO SET ButtonChoice=1
